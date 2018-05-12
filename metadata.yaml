@@ -1,9 +1,13 @@
 _repo: Carl-Scharnhorst-Abenteuer-eines-deutschen-Knaben-in-Amerika_48322
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Hengst, August
     gutenberg_agent_id: '44735'
     url: http://www.gutenberg.org/2009/agents/44735
+covers:
+- cover_type: archival
+  image_path: 48322-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Armando, A.
@@ -13,6 +17,8 @@ creator:
     gutenberg_agent_id: '44734'
     url: http://www.gutenberg.org/2009/agents/44734
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48322#Carl-Scharnhorst-Abenteuer-eines-deutschen-Knaben-in-Amerika
 gutenberg_issued: '2015-02-20'
 gutenberg_type: Text
 identifiers:
